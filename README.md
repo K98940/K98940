@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @K98940
+- 👋 Hi, I’m Konstantin
 - 👀 I’m interested in html/css/js
 - 🌱 I’m currently learning html/css/js
 - 💞️ I’m looking to collaborate on ...
