@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Konstantin
-- 👀 I’m interested in html/css/js
-- 🌱 I’m currently learning html/css/js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hello, I'm <a href="https://шумелка.рф/cv/en/" target="_blank">Konstantin</a> 
+<h3 align="left">Trainee frontend developer. I study a lot to become a junior frontend developer 🙂</h3> 
 
-<!---
-K98940/K98940 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K98940&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=K98940&theme=github)
+  
+![](https://komarev.com/ghpvc/?username=K98940&color=green&style=plastic)
